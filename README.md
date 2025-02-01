@@ -1,16 +1,14 @@
-## Hi there 👋
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=KiteSoar&count_private=true&card_width=250" />
 
-<!--
-**KiteSoar/KiteSoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi 👋  I'm Matthew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 A Second-year Graduate Student | BUPT
+- 🌱 I'm currently studying Backend development and Infrastructure
+- 🔭 Currently working on Nacos
+- 🤔 Looking to collaborate on more open-source projects
+- 📫 Feel free to email me, looooooove to make friends
+
+### Internship：
+- [**Meituan**](https://www.meituan.com/)--**Resource Scheduling Department** ---`From 2024.9 to 2025.1.`
+ 
