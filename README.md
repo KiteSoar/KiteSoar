@@ -6,7 +6,7 @@
 - 🏫 A Second-year Graduate Student | BUPT
 - 🌱 I'm currently studying Backend development and Infrastructure
 - 🔭 Currently focusing on Nacos and RocketMQ
-- 🤔 Looking to collaborate on more open-source projects
+- 🤔 Looking to participate in more open-source projects
 - 📫 Feel free to email me, looooooove to make friends
 
 ### Internship：
