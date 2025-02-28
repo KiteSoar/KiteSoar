@@ -4,7 +4,6 @@
 ### Hi 👋  I'm Matthew
 
 - 🏫 A Second-year Graduate Student | BUPT
-- 🔭 Currently focusing on Nacos and RocketMQ
 - 🤔 Looking to participate in more open-source projects
 - 📫 Feel free to email me, looooooove to make friends
 
