@@ -8,7 +8,4 @@
 - 🤔 Looking to participate in more open-source projects
 - 📫 Feel free to email me, looooooove to make friends
 
-### Internship：
-- [**Meituan**](https://www.meituan.com/)--**Resource Scheduling Group** ---`From 2024.9 to 2025.1.`
-- [**Meituan**](https://www.meituan.com/)--**Advertising Engine Group** ---`From 2025.4 to now.`
  
