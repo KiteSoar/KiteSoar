@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=KiteSoar&count_private=true&card_width=250" />
+
 
 
 ### Hi 👋  I'm Matthew
